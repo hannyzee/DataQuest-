@@ -1,0 +1,6 @@
+{
+  "name": "DataQuest Python: Teen Data Science Lab",
+  "description": "An interactive, offline web app for teens to master data analysis with Python. Features interactive lessons, real-world gaming and music datasets, live Python code execution, visual charts, and hands-on coding challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
